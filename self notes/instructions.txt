@@ -1,0 +1,31 @@
+Project Work  (NOTE! not fully discussed yet and instruction video not available yet!)  (13th February)
+Earlier we used ShopSatisfactionSurvey dataset. In the Project Work here, it is time for you to work on with some different dataset than that we used before. You may have some data in your mind already or I have provided a link for one dataset which you may analyze if so. The required steps we learned earlier by running some analyzes on ShopSatisfactionSurvey data. Now, analyze your new dataset more carefully. Remember to describe it well, especially if not using the data I have linked for you. On ShopSatisfactionSurvey dataset I showed an example with some categorical and numerical variables (one variable analysis) or with some pair of variables (analyzing two variables simultaneously). By the way, along this text, please see the assignment link below for further information on the assignment and the evaluation criteria.
+
+The project work will be discussed after the contents of the course material have been covered. The project work is putting together several topics covered during this course. Topics covered in the study include
+
+Programming structures more characteristic for Python - for example, show that you can use list comprehension
+Data structures and their basic properties - Pandas is the most important data structure now!
+Reading and writing data
+Working with missing data and duplicates - But actually with simple/almost clean dataset it maybe that this is almost nothing
+Descriptive statistics
+Analyzing data in organized manner
+First all the variables one-by-one
+Only then analysis variables in pair
+And with variables in pairs, first tables and graphs
+Only then statistical tests
+Visualizing data with Matplotlib - Well if you use (and basically when you use) graph functions through Pandas object they are anyway Matplotlib functions smile
+Tables using frequencies/counts and percentages - remember to include the number of observations No!
+Principles of visual analytics - again frequencies/counts and percentages
+Modify the basic look and feel of those graphs
+Well, fundamental exploratory data analysis (EDA)
+Selecting, indexing, grouping and transforming data
+Analysis of categorical variables, numerical variables and variables in pairs
+Statistical test - Chi2
+
+
+Major topics from lecture today:
+No video is needed
+PowerPoint presentation file is the most important item to deliver, deadline 23.3.2025 23:59
+Draft version of presentation should be available by next Thursday and we should be ready show it to teacher during lecture if asked
+Jypiter Notebooks needs to be attached but they are not essential for the grade
+In addition to analysing everyone's two variables (eg. sukup + ikä) the most important task is that everyone uses their own variables and analyses them against all five SAT-variables (johto, työtov, työymp, palkkat, työteht) with Chi2 tool and analyse if there is a dependency or not (eg. ikä +  johto) --> each member should deliver 2 x 5 = 10 results and as a team total 30 results
